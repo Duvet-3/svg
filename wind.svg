@@ -1,0 +1,244 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 120"
+     width="1200"
+     height="120"
+     preserveAspectRatio="none">
+
+<style>
+.line {
+    fill: rgba(252,252,252,0.35);
+}
+
+.move {
+    animation-name: moveRight;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes moveRight {
+    from {
+        transform: translateX(-1200px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+</style>
+
+
+<!-- ==================== 第一组 ==================== -->
+<g class="move" style="animation-duration:1800ms;">
+    <rect class="line" x="20" y="12" width="52" height="0.7"/>
+    <rect class="line" x="150" y="43" width="76" height="0.6"/>
+    <rect class="line" x="325" y="87" width="38" height="0.8"/>
+    <rect class="line" x="475" y="28" width="64" height="0.5"/>
+    <rect class="line" x="690" y="102" width="88" height="0.7"/>
+    <rect class="line" x="895" y="64" width="46" height="0.6"/>
+    <rect class="line" x="1070" y="20" width="71" height="0.8"/>
+</g>
+
+
+<!-- ==================== 第二组 ==================== -->
+<g class="move" style="animation-duration:1920ms;">
+    <rect class="line" x="65" y="30" width="34" height="0.5"/>
+    <rect class="line" x="225" y="72" width="68" height="0.7"/>
+    <rect class="line" x="410" y="110" width="82" height="0.6"/>
+    <rect class="line" x="610" y="50" width="43" height="0.8"/>
+    <rect class="line" x="790" y="91" width="75" height="0.5"/>
+    <rect class="line" x="1015" y="38" width="57" height="0.7"/>
+</g>
+
+
+<!-- ==================== 第三组 ==================== -->
+<g class="move" style="animation-duration:1650ms;">
+    <rect class="line" x="100" y="96" width="84" height="0.6"/>
+    <rect class="line" x="285" y="18" width="43" height="0.7"/>
+    <rect class="line" x="455" y="61" width="72" height="0.5"/>
+    <rect class="line" x="655" y="15" width="55" height="0.8"/>
+    <rect class="line" x="840" y="76" width="96" height="0.6"/>
+    <rect class="line" x="1120" y="48" width="41" height="0.7"/>
+</g>
+
+
+<!-- ==================== 第四组 ==================== -->
+<g class="move" style="animation-duration:2100ms;">
+    <rect class="line" x="35" y="54" width="73" height="0.8"/>
+    <rect class="line" x="205" y="105" width="51" height="0.6"/>
+    <rect class="line" x="375" y="35" width="91" height="0.5"/>
+    <rect class="line" x="575" y="82" width="37" height="0.7"/>
+    <rect class="line" x="770" y="23" width="79" height="0.6"/>
+    <rect class="line" x="970" y="99" width="63" height="0.8"/>
+</g>
+
+
+<!-- ==================== 第五组 ==================== -->
+<g class="move" style="animation-duration:2280ms;">
+    <rect class="line" x="80" y="7" width="61" height="0.6"/>
+    <rect class="line" x="265" y="47" width="94" height="0.7"/>
+    <rect class="line" x="445" y="92" width="47" height="0.5"/>
+    <rect class="line" x="630" y="69" width="78" height="0.8"/>
+    <rect class="line" x="825" y="8" width="39" height="0.6"/>
+    <rect class="line" x="1055" y="115" width="86" height="0.7"/>
+</g>
+
+
+<!-- ==================== 第六组 ==================== -->
+<g class="move" style="animation-duration:1740ms;">
+    <rect class="line" x="5" y="25" width="89" height="0.6"/>
+    <rect class="line" x="175" y="90" width="45" height="0.8"/>
+    <rect class="line" x="350" y="48" width="70" height="0.5"/>
+    <rect class="line" x="535" y="6" width="103" height="0.7"/>
+    <rect class="line" x="750" y="57" width="52" height="0.6"/>
+    <rect class="line" x="965" y="84" width="81" height="0.8"/>
+</g>
+
+
+<!-- ==================== 第七组 ==================== -->
+<g class="move" style="animation-duration:2030ms;">
+    <rect class="line" x="55" y="67" width="42" height="0.7"/>
+    <rect class="line" x="240" y="15" width="87" height="0.5"/>
+    <rect class="line" x="420" y="102" width="59" height="0.8"/>
+    <rect class="line" x="595" y="36" width="74" height="0.6"/>
+    <rect class="line" x="805" y="111" width="97" height="0.7"/>
+    <rect class="line" x="1090" y="72" width="54" height="0.5"/>
+</g>
+
+
+<!-- ==================== 第八组 ==================== -->
+<g class="move" style="animation-duration:1860ms;">
+    <rect class="line" x="115" y="38" width="69" height="0.8"/>
+    <rect class="line" x="310" y="80" width="101" height="0.6"/>
+    <rect class="line" x="505" y="22" width="48" height="0.5"/>
+    <rect class="line" x="680" y="94" width="83" height="0.7"/>
+    <rect class="line" x="875" y="51" width="58" height="0.6"/>
+    <rect class="line" x="1065" y="6" width="92" height="0.8"/>
+</g>
+
+
+<!-- ==================== 第九组 ==================== -->
+<g class="move" style="animation-duration:2160ms;">
+    <rect class="line" x="30" y="100" width="67" height="0.5"/>
+    <rect class="line" x="190" y="58" width="93" height="0.7"/>
+    <rect class="line" x="385" y="8" width="41" height="0.6"/>
+    <rect class="line" x="555" y="73" width="108" height="0.8"/>
+    <rect class="line" x="775" y="31" width="63" height="0.5"/>
+    <rect class="line" x="1000" y="88" width="79" height="0.7"/>
+</g>
+
+
+<!-- ==================== 第十组 ==================== -->
+<g class="move" style="animation-duration:1530ms;">
+    <rect class="line" x="85" y="52" width="97" height="0.6"/>
+    <rect class="line" x="270" y="106" width="54" height="0.8"/>
+    <rect class="line" x="455" y="34" width="82" height="0.5"/>
+    <rect class="line" x="640" y="77" width="111" height="0.7"/>
+    <rect class="line" x="850" y="14" width="47" height="0.6"/>
+    <rect class="line" x="1085" y="63" width="73" height="0.8"/>
+</g>
+
+
+<!-- ================================================= -->
+<!-- 第二份图形，用于无缝循环                          -->
+<!-- ================================================= -->
+
+<g class="move" style="animation-duration:1800ms;">
+    <rect class="line" x="1220" y="12" width="52" height="0.7"/>
+    <rect class="line" x="1350" y="43" width="76" height="0.6"/>
+    <rect class="line" x="1525" y="87" width="38" height="0.8"/>
+    <rect class="line" x="1675" y="28" width="64" height="0.5"/>
+    <rect class="line" x="1890" y="102" width="88" height="0.7"/>
+    <rect class="line" x="2095" y="64" width="46" height="0.6"/>
+    <rect class="line" x="2270" y="20" width="71" height="0.8"/>
+</g>
+
+
+<g class="move" style="animation-duration:1920ms;">
+    <rect class="line" x="1265" y="30" width="34" height="0.5"/>
+    <rect class="line" x="1425" y="72" width="68" height="0.7"/>
+    <rect class="line" x="1610" y="110" width="82" height="0.6"/>
+    <rect class="line" x="1810" y="50" width="43" height="0.8"/>
+    <rect class="line" x="1990" y="91" width="75" height="0.5"/>
+    <rect class="line" x="2215" y="38" width="57" height="0.7"/>
+</g>
+
+
+<g class="move" style="animation-duration:1650ms;">
+    <rect class="line" x="1300" y="96" width="84" height="0.6"/>
+    <rect class="line" x="1485" y="18" width="43" height="0.7"/>
+    <rect class="line" x="1655" y="61" width="72" height="0.5"/>
+    <rect class="line" x="1855" y="15" width="55" height="0.8"/>
+    <rect class="line" x="2040" y="76" width="96" height="0.6"/>
+    <rect class="line" x="2320" y="48" width="41" height="0.7"/>
+</g>
+
+
+<g class="move" style="animation-duration:2100ms;">
+    <rect class="line" x="1235" y="54" width="73" height="0.8"/>
+    <rect class="line" x="1405" y="105" width="51" height="0.6"/>
+    <rect class="line" x="1575" y="35" width="91" height="0.5"/>
+    <rect class="line" x="1775" y="82" width="37" height="0.7"/>
+    <rect class="line" x="1970" y="23" width="79" height="0.6"/>
+    <rect class="line" x="2170" y="99" width="63" height="0.8"/>
+</g>
+
+
+<g class="move" style="animation-duration:2280ms;">
+    <rect class="line" x="1280" y="7" width="61" height="0.6"/>
+    <rect class="line" x="1465" y="47" width="94" height="0.7"/>
+    <rect class="line" x="1645" y="92" width="47" height="0.5"/>
+    <rect class="line" x="1830" y="69" width="78" height="0.8"/>
+    <rect class="line" x="2025" y="8" width="39" height="0.6"/>
+    <rect class="line" x="2255" y="115" width="86" height="0.7"/>
+</g>
+
+
+<g class="move" style="animation-duration:1740ms;">
+    <rect class="line" x="1205" y="25" width="89" height="0.6"/>
+    <rect class="line" x="1375" y="90" width="45" height="0.8"/>
+    <rect class="line" x="1550" y="48" width="70" height="0.5"/>
+    <rect class="line" x="1735" y="6" width="103" height="0.7"/>
+    <rect class="line" x="1950" y="57" width="52" height="0.6"/>
+    <rect class="line" x="2165" y="84" width="81" height="0.8"/>
+</g>
+
+
+<g class="move" style="animation-duration:2030ms;">
+    <rect class="line" x="1255" y="67" width="42" height="0.7"/>
+    <rect class="line" x="1440" y="15" width="87" height="0.5"/>
+    <rect class="line" x="1620" y="102" width="59" height="0.8"/>
+    <rect class="line" x="1795" y="36" width="74" height="0.6"/>
+    <rect class="line" x="2005" y="111" width="97" height="0.7"/>
+    <rect class="line" x="2290" y="72" width="54" height="0.5"/>
+</g>
+
+
+<g class="move" style="animation-duration:1860ms;">
+    <rect class="line" x="1315" y="38" width="69" height="0.8"/>
+    <rect class="line" x="1510" y="80" width="101" height="0.6"/>
+    <rect class="line" x="1705" y="22" width="48" height="0.5"/>
+    <rect class="line" x="1880" y="94" width="83" height="0.7"/>
+    <rect class="line" x="2075" y="51" width="58" height="0.6"/>
+    <rect class="line" x="2265" y="6" width="92" height="0.8"/>
+</g>
+
+
+<g class="move" style="animation-duration:2160ms;">
+    <rect class="line" x="1230" y="100" width="67" height="0.5"/>
+    <rect class="line" x="1390" y="58" width="93" height="0.7"/>
+    <rect class="line" x="1585" y="8" width="41" height="0.6"/>
+    <rect class="line" x="1755" y="73" width="108" height="0.8"/>
+    <rect class="line" x="1975" y="31" width="63" height="0.5"/>
+    <rect class="line" x="2200" y="88" width="79" height="0.7"/>
+</g>
+
+
+<g class="move" style="animation-duration:1530ms;">
+    <rect class="line" x="1285" y="52" width="97" height="0.6"/>
+    <rect class="line" x="1470" y="106" width="54" height="0.8"/>
+    <rect class="line" x="1655" y="34" width="82" height="0.5"/>
+    <rect class="line" x="1840" y="77" width="111" height="0.7"/>
+    <rect class="line" x="2050" y="14" width="47" height="0.6"/>
+    <rect class="line" x="2285" y="63" width="73" height="0.8"/>
+</g>
+
+</svg>
